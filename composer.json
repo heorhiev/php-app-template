@@ -1,6 +1,6 @@
 {
     "require": {
-        "heorhiiev/php-app-toolkit": "dev-master"
+        "heorhiev/php-app-toolkit": "dev-master"
     },
     "repositories": [
         {
