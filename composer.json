@@ -1,0 +1,11 @@
+{
+    "require": {
+        "heorhiiev/php-app-toolkit": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/heorhiev/php-app-toolkit.git"
+        }
+    ]
+}
